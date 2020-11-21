@@ -8,7 +8,7 @@ Previously, there were also some imperfections within the code, so I have change
 
 Website URL: https://anniemcfarland7.github.io/Password-Generator/
 
-Repository URL: https://github.com/anniemcfarland7/01-HTML-CSS-Git-Code-Refactor
+Repository URL: https://github.com/anniemcfarland7/Password-Generator
 
 ## Screenshot 
 
