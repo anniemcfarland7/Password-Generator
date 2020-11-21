@@ -47,7 +47,7 @@ function getPasswordOptions() {
 }
 
 
-// Producing a random element
+// Producing the random function
 function random(arr) {
   var randomIndex = Math.floor(Math.random() * arr.length);
   var randomElement = arr[randomIndex];
@@ -93,10 +93,10 @@ function generatePassword() {
   return result.join('');
 }
 
-// Assignment Code
+// Assign button to HTML id tag
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+// Write password into the #password input
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
