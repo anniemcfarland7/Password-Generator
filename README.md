@@ -12,5 +12,5 @@ Repository URL: https://github.com/anniemcfarland7/Password-Generator
 
 The following image shows the web application's initial appearance:
 
-![Web Screenshot](screenshot.png)
+![Web Screenshot](./Assets/screenshot.png)
 
